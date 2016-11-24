@@ -1,4 +1,7 @@
 # playground
 Practice
-zhen me le
-wo xiang xiuxi
+<<<<<<< HEAD
+=======
+
+github practice
+>>>>>>> cb0bef0... Update README.md
